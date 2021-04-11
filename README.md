@@ -1,6 +1,7 @@
 # SQL_for_Data_Science
 
-Coursera SQL Basics for Data Science course.
+Coursera SQL Basics for Data Science course completed in 2021.
+
 Topics covered include:
   1. SQL for Data Science
   2. Data Wrangling, Analysis and AB Testing with SQL
