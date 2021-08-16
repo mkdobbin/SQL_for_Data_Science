@@ -1,6 +1,6 @@
 # SQL_for_Data_Science
 
-Coursera SQL Basics for Data Science course completed in 2021.
+Coursera SQL Basics for Data Science course in progress.
 
 Topics covered include:
   1. SQL for Data Science
